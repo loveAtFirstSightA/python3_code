@@ -1,0 +1,34 @@
+[
+  {
+    "StartExecuteTime": "00:01",
+    "StopExecuteTime": "23:59",
+    "LowPower": 10,
+    "HightPower": 30,
+    "executePoints": [
+      {
+			"mapId" : 1721978946014,
+			"stationId" : 1721979032608,
+			"stationName" : "start",
+			"x" : "7.22794",
+			"y" : "-3.15009",
+			"yaw" : "-0.73772"
+      },
+      {
+			"mapId" : 1721978946014,
+			"stationId" : 1721979050809,
+			"stationName" : "temp",
+			"x" : "9.27412",
+			"y" : "-6.82995",
+			"yaw" : "-0.58739"
+      },
+      {
+			"mapId" : 1721978946014,
+			"stationId" : 1722220729312,
+			"stationName" : "111",
+			"x" : "10.65895",
+			"y" : "-1.94334",
+			"yaw" : "-2.17129"
+      }
+    ]
+  }
+]

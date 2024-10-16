@@ -1,0 +1,148 @@
+[
+  {
+    "StartExecuteTime": "08:30",
+    "StopExecuteTime": "10:00",
+    "LowPower": 40,
+    "HightPower": 60,
+    "executePoints": [
+      {
+        "mapId" : 1709870483105,
+        "stationId" : 1713864060939,
+        "stationName" : "start",
+        "x" : "-4.97823",
+        "y" : "-7.94411",
+        "yaw" : "-0.16897"
+      },
+      {
+        "mapId" : 1709870483105,
+        "stationId" : 1713864118156,
+        "stationName" : "oustart",
+        "x" : "12.75732",
+        "y" : "-11.98978",
+        "yaw" : "0.06258"
+      },
+      {
+        "mapId" : 1709870483105,
+        "stationId" : 1713864158009,
+        "stationName" : "guiwan",
+        "x" : "22.81357",
+        "y" : "-8.14885",
+        "yaw" : "-1.59588"
+      }
+    ]
+  },
+  {
+    "StartExecuteTime": "10:00",
+    "StopExecuteTime": "11:30",
+    "LowPower": 40,
+    "HightPower": 60,
+    "executePoints": [
+      {
+        "mapId" : 1709870483105,
+        "stationId" : 1709896510345,
+        "stationName" : "21floor_nav_door",
+        "x" : "1.75919",
+        "y" : "3.43640",
+        "yaw" : "1.53716"
+      },
+      {
+        "mapId" : 1709877929284,
+        "stationId" : 1709878772124,
+        "stationName" : "19floor_elevator_wait",
+        "stationPos" : "wait",
+        "x" : "3.11420",
+        "y" : "0.06984",
+        "yaw" : "-3.06124"
+      }
+    ]
+  },
+  {
+    "StartExecuteTime": "11:30",
+    "StopExecuteTime": "12:30",
+    "LowPower": 40,
+    "HightPower": 60,
+    "executePoints": [
+      {
+        "mapId" : 1709870483105,
+        "stationId" : 1713864060939,
+        "stationName" : "start",
+        "x" : "-4.97823",
+        "y" : "-7.94411",
+        "yaw" : "-0.16897"
+      },
+      {
+        "mapId" : 1709870483105,
+        "stationId" : 1713864118156,
+        "stationName" : "oustart",
+        "x" : "12.75732",
+        "y" : "-11.98978",
+        "yaw" : "0.06258"
+      },
+      {
+        "mapId" : 1709870483105,
+        "stationId" : 1713864158009,
+        "stationName" : "guiwan",
+        "x" : "22.81357",
+        "y" : "-8.14885",
+        "yaw" : "-1.59588"
+      }
+    ]
+  },
+  {
+    "StartExecuteTime": "12:30",
+    "StopExecuteTime": "17:30",
+    "LowPower": 40,
+    "HightPower": 60,
+    "executePoints": [
+      {
+        "mapId" : 1709870483105,
+        "stationId" : 1709896510345,
+        "stationName" : "21floor_nav_door",
+        "x" : "1.75919",
+        "y" : "3.43640",
+        "yaw" : "1.53716"
+      },
+      {
+        "mapId" : 1709877929284,
+        "stationId" : 1709878772124,
+        "stationName" : "19floor_elevator_wait",
+        "stationPos" : "wait",
+        "x" : "3.11420",
+        "y" : "0.06984",
+        "yaw" : "-3.06124"
+      }
+    ]
+  },
+  {
+    "StartExecuteTime": "17:30",
+    "StopExecuteTime": "08:30",
+    "LowPower": 40,
+    "HightPower": 60,
+    "executePoints": [
+      {
+        "mapId" : 1709870483105,
+        "stationId" : 1713864060939,
+        "stationName" : "start",
+        "x" : "-4.97823",
+        "y" : "-7.94411",
+        "yaw" : "-0.16897"
+      },
+      {
+        "mapId" : 1709870483105,
+        "stationId" : 1713864118156,
+        "stationName" : "oustart",
+        "x" : "12.75732",
+        "y" : "-11.98978",
+        "yaw" : "0.06258"
+      },
+      {
+        "mapId" : 1709870483105,
+        "stationId" : 1713864158009,
+        "stationName" : "guiwan",
+        "x" : "22.81357",
+        "y" : "-8.14885",
+        "yaw" : "-1.59588"
+      }
+    ]
+  }
+]
